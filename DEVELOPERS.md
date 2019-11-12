@@ -11,7 +11,12 @@ Then, follow instructions for either native or Docker installation.
 
 Set up a virtual environment
 ```
-python3 -m venv /path/to/new/virtual/environment
+python3 -m venv <new directory>
+```
+
+Start the virtual environment
+```
+. <new directory>/bin/activate
 ```
 
 Install tensorflow 1.14 (with GPU support, if you have a GPU and want everything to run faster)
