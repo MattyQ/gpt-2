@@ -9,7 +9,10 @@ Then, follow instructions for either native or Docker installation.
 
 ## Native Installation
 
-All steps can optionally be done in a virtual environment using tools such as `virtualenv` or `conda`.
+Set up a virtual environment
+```
+python3 -m venv /path/to/new/virtual/environment
+```
 
 Install tensorflow 1.14 (with GPU support, if you have a GPU and want everything to run faster)
 ```
