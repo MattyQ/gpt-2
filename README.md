@@ -1,5 +1,5 @@
 **Status:** Archive (code is provided as-is, no updates expected)
-**Docker images built from this fork are available at: https://hub.docker.com/repository/docker/mattyq/gpt-2*
+**Docker images built from this fork are available at: https://hub.docker.com/repository/docker/mattyq/gpt-2**
 
 
 # gpt-2
